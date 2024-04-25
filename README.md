@@ -1,1 +1,2 @@
-# INFORMATICA2
+# INFORMATICA
+Arquivos de Informática
