@@ -1,4 +1,4 @@
-# INFORMATICA
+# PROJETOS DE INFORMATICA
 Arquivos de Informática
 
 Trabalho de horários de aula feito com a equipe GTS Group
