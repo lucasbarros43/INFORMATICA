@@ -14,5 +14,5 @@ POROVA DE INFORMÁTICA - SIMULADO C
 Excel - Gráficos
 ![Excel - simulado C](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/b18bf3ae-4c22-4559-b0c5-0db630d321b5)
 
-Power BI - Dashboard
+Power BI - Dashboard - SIMULADO C
 ![print power BI Lucas Simulado](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/c8a1e765-965d-470c-a4f3-462a69bc842a)
