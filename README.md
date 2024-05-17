@@ -9,3 +9,10 @@ Trabalho de horários de aula feito com a equipe GTS Group
 ![imagem 2](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/242f0ac8-a57e-4369-b3e2-2288c891b08b)
 
 ![imagem 3](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/f995c0a0-6eec-411b-bb63-2240f0d2b08b)
+
+POROVA DE INFORMÁTICA - SIMULADO C
+Excel - Gráficos
+![Excel - simulado C](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/b18bf3ae-4c22-4559-b0c5-0db630d321b5)
+
+Power BI - Dashboard
+![print power BI Lucas Simulado](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/c8a1e765-965d-470c-a4f3-462a69bc842a)
