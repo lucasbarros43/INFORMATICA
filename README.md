@@ -1,6 +1,12 @@
 # PROJETOS DE INFORMATICA
 Arquivos de Informática
 
+Apresentação Pwer Point
+![print ppt 1](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/b8fde0ab-d692-45ec-a91f-dcf3f7f58cf2)
+
+![print ppt 2](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/c3678b35-6c91-4abc-a64c-efe7d532f612)
+
+
 Trabalho de horários de aula feito com a equipe GTS Group
 ![foto horarios](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/1e21ba4f-9791-4f63-a8d1-14f7ba593d81)
 
