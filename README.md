@@ -16,3 +16,8 @@ Excel - Gráficos
 
 Power BI - Dashboard - PROVA INFORMÁTICA
 ![print power BI Lucas Simulado](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/c8a1e765-965d-470c-a4f3-462a69bc842a)
+
+Power Automate - PROJETO API 01/2024
+![Pow automate](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/533b57dc-e780-458f-ba1f-bcdc28cc2ba9)
+![Power automate](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/ddab508f-38e2-43a0-9004-e2f6ce00b53d)
+
