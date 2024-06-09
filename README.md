@@ -2,7 +2,7 @@
 Arquivos de Informática
 
 Apresentação Pwer Point
-![print ppt 1](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/a98b88d7-5330-4063-bf4d-5dfb478138c6)
+![print ppt 1](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/0f31460d-3e58-4faf-a38c-5473bcad9bd3)
 
 ![print ppt 2](https://github.com/lucasbarros43/INFORMATICA/assets/162647577/ad05d943-5c00-466f-9c50-c8a49ee95b33)
 
